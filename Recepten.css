@@ -1,7 +1,22 @@
 
+h1{
+	text-align: center;
+}
+img{
+	margin-left: 230px;
+}
 body{
 background-color: lightblue;
 }
 p{
 	font-family: Arial;
+}
+div{
+	background-color: blue;
+	width: 800px;
+	margin: 0 auto;
+}
+p.center{
+	font-family: Arial;
+	text-align: center;
 }
